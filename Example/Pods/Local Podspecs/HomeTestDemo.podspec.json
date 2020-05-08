@@ -1,0 +1,28 @@
+{
+  "name": "HomeTestDemo",
+  "version": "0.1.0",
+  "summary": "fdffdfdfdfd奋斗的方法对方答复.",
+  "description": "TODO: 丰富的纷纷 .",
+  "homepage": "https://github.com/Ma-liang-liang/HomeTestDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1663466426@qq.com": "1663466426@qq.com"
+  },
+  "source": {
+    "git": "git@github.com:Ma-liang-liang/HomeTestDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "5.0",
+  "source_files": "HomeTestDemo/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}

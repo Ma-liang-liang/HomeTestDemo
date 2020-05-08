@@ -1,0 +1,23 @@
+PODS:
+  - HomeTestDemo (0.1.0):
+    - SnapKit
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - HomeTestDemo (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  HomeTestDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HomeTestDemo: 86899c04fd26ee0bed91fc6f647b3d38c1903db3
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: 96079ae680d11fbc5e8e7060b8976cc2b9661ebf
+
+COCOAPODS: 1.6.1

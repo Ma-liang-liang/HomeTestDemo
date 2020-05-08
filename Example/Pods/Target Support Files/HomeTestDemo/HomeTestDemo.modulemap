@@ -1,0 +1,6 @@
+framework module HomeTestDemo {
+  umbrella header "HomeTestDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
