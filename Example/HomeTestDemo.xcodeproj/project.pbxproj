@@ -295,12 +295,14 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-HomeTestDemo_Example/Pods-HomeTestDemo_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/HomeTestDemo/HomeTestDemo.framework",
+				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/HomeTestDemo.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SnapKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
